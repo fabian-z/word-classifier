@@ -6,11 +6,11 @@ using System.Security;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("word-classifier")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Classifier for Word")]
+[assembly: AssemblyDescription("TLP Classification solution for MS Word")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("word-classifier")]
+[assembly: AssemblyCompany("ConceptLab")]
+[assembly: AssemblyProduct("Classifier")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
